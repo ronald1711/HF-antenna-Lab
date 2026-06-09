@@ -1,0 +1,6 @@
+{
+  "name": "HF Antenna Lab",
+  "description": "Expert engineering calculator, learning platform and DIY assembly planner for Magnetic Loop antennas and motorized screwdriver antennas (like the Diamond SD-330).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
